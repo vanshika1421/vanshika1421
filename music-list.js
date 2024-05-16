@@ -17,7 +17,7 @@ let allMusic = [
     src: "music-1"
   },
   {
-    name: "Soulmate",
+    name: "Soulamte ",
     artist: "Badshah",
     img: "music-2",
     src: "music-2"
@@ -42,7 +42,7 @@ let allMusic = [
   },
   {
     name: "Shayad",
-    artist: "Arijit Singh",
+    artist: "Arjit Singh",
     img: "music-6",
     src: "music-6"
   },
