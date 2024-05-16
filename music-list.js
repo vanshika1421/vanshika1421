@@ -36,7 +36,7 @@ let allMusic = [
   },
   {
     name: "Sohne sohne suit",
-    artist: "Nimrat khera",
+    artist: "Nimrat khaira",
     img: "music-5",
     src: "music-5"
   },
