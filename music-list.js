@@ -11,38 +11,38 @@ To add more song, just copy the following code and paste inside the array
 
 let allMusic = [
   {
-    name: "Harley Bird - Home",
-    artist: "Jordan Schor",
+    name: "oochi - oochi ",
+    artist: " Arijit Singh",
     img: "music-1",
     src: "music-1"
   },
   {
-    name: "Ikson Anywhere – Ikson",
-    artist: "Audio Library",
+    name: "Soulamte ",
+    artist: "Badshah",
     img: "music-2",
     src: "music-2"
   },
   {
-    name: "Beauz & Jvna - Crazy",
-    artist: "Beauz & Jvna",
+    name: "Radha krishna",
+    artist: "~",
     img: "music-3",
     src: "music-3"
   },
   {
-    name: "Hardwind - Want Me",
-    artist: "Mike Archangelo",
+    name: "Ever green",
+    artist: "Mr. Jatt",
     img: "music-4",
     src: "music-4"
   },
   {
-    name: "Jim - Sun Goes Down",
-    artist: "Jim Yosef x Roy",
+    name: "Sohne sohne suit",
+    artist: "Nimrat khera",
     img: "music-5",
     src: "music-5"
   },
   {
-    name: "Lost Sky - Vision NCS",
-    artist: "NCS Release",
+    name: "Shayad",
+    artist: "Arjit Singh",
     img: "music-6",
     src: "music-6"
   },
