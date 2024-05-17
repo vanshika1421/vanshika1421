@@ -11,37 +11,37 @@ To add more song, just copy the following code and paste inside the array
 
 let allMusic = [
   {
-    name: "Harley Bird - Home",
+    name: "oochi oochi",
     artist: "Jordan Schor",
     img: "music-1",
     src: "music-1"
   },
   {
-    name: "Ikson Anywhere – Ikson",
+    name: "Soulmate",
     artist: "Audio Library",
     img: "music-2",
     src: "music-2"
   },
   {
-    name: "Beauz & Jvna - Crazy",
+    name: "Radha Krishna",
     artist: "Beauz & Jvna",
     img: "music-3",
     src: "music-3"
   },
   {
-    name: "Hardwind - Want Me",
+    name: "Evergreen",
     artist: "Mike Archangelo",
     img: "music-4",
     src: "music-4"
   },
   {
-    name: "Jim - Sun Goes Down",
+    name: "sohne Sohne",
     artist: "Jim Yosef x Roy",
     img: "music-5",
     src: "music-5"
   },
   {
-    name: "Lost Sky - Vision NCS",
+    name: "Shayad",
     artist: "NCS Release",
     img: "music-6",
     src: "music-6"
