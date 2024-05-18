@@ -11,40 +11,46 @@ To add more song, just copy the following code and paste inside the array
 
 let allMusic = [
   {
-    name: "Harley Bird - Home",
-    artist: "Jordan Schor",
+    name: "oochi oochi",
+    artist: "Arijit Singh",
     img: "music-1",
     src: "music-1"
   },
   {
-    name: "Ikson Anywhere – Ikson",
-    artist: "Audio Library",
+    name: "Soulmate",
+    artist: "Badshah",
     img: "music-2",
     src: "music-2"
   },
   {
-    name: "Beauz & Jvna - Crazy",
-    artist: "Beauz & Jvna",
+    name: "Radha Krishna",
+    artist: "~",
     img: "music-3",
     src: "music-3"
   },
   {
-    name: "Hardwind - Want Me",
-    artist: "Mike Archangelo",
+    name: "Evergreen",
+    artist: "Mr. Jatt",
     img: "music-4",
     src: "music-4"
   },
   {
-    name: "Jim - Sun Goes Down",
-    artist: "Jim Yosef x Roy",
+    name: "sohne Sohne",
+    artist: "Nimrat Khera",
     img: "music-5",
     src: "music-5"
   },
   {
-    name: "Lost Sky - Vision NCS",
-    artist: "NCS Release",
+    name: "Shayad",
+    artist: "Arijit Singh,
     img: "music-6",
     src: "music-6"
+  },
+  {
+    name: "Eni Sohni nai",
+    artist: "Chandra brar",
+    img: "music-7",
+    src: "music-7"
   },
   // like this paste it and remember to give comma after ending of this bracket }
   // {
